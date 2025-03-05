@@ -1,7 +1,8 @@
 trigger:
 - '*'
+
 pool:
-      name: 'AlgirdasAgentPool'
+  name: 'AlgirdasAgentPool'
 
 variables:
   buildConfiguration: 'Release'
